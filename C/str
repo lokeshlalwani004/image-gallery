@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<string.h>
+
+int main() {
+    str c1[]="Gaurav";
+    printf("the reverce of C1 is=>");
+    puts(strrev(c1));
+
+}
